@@ -66,7 +66,7 @@ Since iZettle SDK is distributed as a binary, you need to use custom `binary` ru
 1. Add following to your `Cartfile`:
 
 ```
-binary "https://raw.githubusercontent.com/iZettle/sdk-ios/master/Carthage/iZettleSDK.json" >= 1.6.1
+binary "https://raw.githubusercontent.com/iZettle/sdk-ios/master/Carthage/iZettleSDK.json" >= 1.6.2
 ```
 
 2. Fetch frameworks by running:
